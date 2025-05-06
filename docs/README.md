@@ -125,7 +125,6 @@ All game files mentioned below can be found in the project root directory (`Catc
 
 We're planning exciting new features:
 - 🌈 Multiple ball types
-- 🏆 Global leaderboards
 - ⚡ Power-ups
 - 🤝 Multiplayer mode
 - 🎨 New themes
